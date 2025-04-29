@@ -1,4 +1,4 @@
-using Content.Shared._CorvaxNext.CrewMedal;
+using Content.Shared._TPNext.CrewMedal;
 using Robust.Client.UserInterface;
 
 namespace Content.Client._CorvaxNext.CrewMedal.UI;
