@@ -1,14 +1,14 @@
 using Content.Server.GameTicking;
 using Content.Shared.Administration.Logs;
 using Content.Shared.Clothing;
-using Content.Shared._CorvaxNext.CrewMedal;
+using Content.Shared._TPNext.CrewMedal;
 using Content.Shared.Database;
 using Content.Shared.IdentityManagement;
 using Content.Shared.Popups;
 using System.Linq;
 using System.Text;
 
-namespace Content.Server._CorvaxNext.CrewMedal;
+namespace Content.Server._TPNext.CrewMedal;
 
 public sealed class CrewMedalSystem : SharedCrewMedalSystem
 {
