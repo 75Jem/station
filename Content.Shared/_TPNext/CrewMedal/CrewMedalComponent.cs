@@ -1,6 +1,6 @@
 using Robust.Shared.GameStates;
 
-namespace Content.Shared._CorvaxNext.CrewMedal;
+namespace Content.Shared._TPNext.CrewMedal;
 
 /// <summary>
 /// Component for a medal that can be awarded to a player and 

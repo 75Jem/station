@@ -1,6 +1,6 @@
 using Robust.Shared.Serialization;
 
-namespace Content.Shared._CorvaxNext.CrewMedal;
+namespace Content.Shared._TPNext.CrewMedal;
 
 /// <summary>
 /// Enum representing the key for the Crew Medal user interface.

@@ -1,6 +1,6 @@
 using Content.Shared.Examine;
 
-namespace Content.Shared._CorvaxNext.CrewMedal;
+namespace Content.Shared._TPNext.CrewMedal;
 
 public abstract class SharedCrewMedalSystem : EntitySystem
 {
